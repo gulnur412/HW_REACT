@@ -1,5 +1,13 @@
+import './App.css'
+import { Products } from './components/Products/Products'
 function App() {
-  return <div></div>;
+
+  return (
+    <>
+     <Products/>
+    
+    </>
+  )
 }
 
-export default App;
+export default App
