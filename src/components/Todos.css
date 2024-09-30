@@ -1,0 +1,61 @@
+/* .toggle {
+  margin-left: 70px;
+  font-weight: 500;
+  font-family: emoji;
+}
+.input-title {
+  margin-top: 20px;
+  width: 300px;
+  height: 40px;
+  padding-left: 5px;
+}
+.wrapper {
+  margin: 80px 0px 0px 200px;
+}
+.todos {
+  background-color: rgb(233, 233, 229);
+  width: 700px;
+  height: 600px;
+  display: flex;
+  margin: 60px 0px 0px 380px;
+}
+.add-todo {
+  border-radius: 20px;
+  border: none;
+  background-color: rgb(95, 213, 213);
+  color: gray;
+  width: 70px;
+  height: 40px;
+
+  cursor: pointer;
+  margin-left: 20px;
+}
+ul {
+  list-style: none;
+
+  border-radius: 20px;
+  border: none;
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+li {
+  background-color: rgb(54, 224, 224);
+  height: 40px;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 20px;
+}
+
+.remove {
+  width: 80px;
+  height: 35px;
+  border-radius: 20px;
+  border: none;
+  color: darkgrey;
+} */
