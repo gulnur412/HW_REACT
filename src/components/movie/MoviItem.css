@@ -1,0 +1,61 @@
+.li-movie {
+  display: flex;
+  flex-wrap: wrap;
+  width: 650px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 10px 15px 5px rgb(220, 217, 217);
+  border-radius: 20px;
+  img {
+    width: 150px;
+    height: 160px;
+    border-radius: 10px;
+  }
+}
+.avatar {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10px;
+  padding-left: 20px;
+}
+.edit {
+  padding-top: 20px;
+  display: flex;
+  gap: 30px;
+}
+.b {
+  width: 100px;
+  height: 30px;
+  border: 1px solid black;
+  border: none;
+  background-color: chocolate;
+  border-radius: 25px;
+  text-align: center;
+  color: white;
+  padding-top: 5px;
+}
+.delete {
+  width: 100px;
+  height: 30px;
+  background-color: rgb(180, 18, 18);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn {
+  width: 80px;
+  height: 30px;
+  background-color: darkblue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.title-p {
+  font-weight: 600;
+  font-size: large;
+}
+
+
